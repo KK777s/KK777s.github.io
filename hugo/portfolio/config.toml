@@ -1,0 +1,4 @@
+baseURL = "https://kk777s.github.io/"
+languageCode = "ja"
+title = "Testing Portfolio"
+disableKinds = ["RSS", "sitemap"]
