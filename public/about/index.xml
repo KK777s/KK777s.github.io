@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on ポートフォリオ（仮）</title>
+    <link>https://kk777s.github.io/about/</link>
+    <description>Recent content in About on ポートフォリオ（仮）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://kk777s.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://kk777s.github.io/about/about/</link>
+      <pubDate>Mon, 10 Aug 2020 15:15:08 +0900</pubDate>
+      
+      <guid>https://kk777s.github.io/about/about/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>
